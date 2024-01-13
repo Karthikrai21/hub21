@@ -1,1 +1,1 @@
-#include<iostream.h>
+import numpy as np
